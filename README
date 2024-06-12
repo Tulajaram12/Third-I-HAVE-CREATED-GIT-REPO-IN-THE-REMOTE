@@ -1,0 +1,41 @@
+I HAVE CREATED README IN GIT REMOTE REPO AND CLONED IN MY LOCAL UBUNTU TERMINAL 
+
+THIS WAS DONE WITH CREATION OF TWO BRANCHES CALLED "FEATURE BRANCH1", "FEATURE BRANCH2"  FROM MAIN BRANCH AND
+STEPS:
+1) git clone URL
+2) git branch -> Master
+3) git branch feature1
+4) git branch -> Master
+                 feature1
+5) git checkout feature1
+6) vi README and edited some content
+7) git add .
+8) git commit -m "msg"
+9) git push origin feature1
+RAISED MERGE REQUEST TO MASTER FROM FEATURE1 
+
+I HAVE CREATED README IN GIT REMOTE REPO AND CLONED IN MY LOCAL UBUNTU TERMINAL 
+
+THIS WAS DONE WITH CREATION OF SINGLE BRANCH CALLED "FEATURE BRANCH"  FROM MAIN BRANCH AND
+STEPS:
+1) git clone URL
+2) git branch -> Master
+3) git branch feature2
+4) git branch -> Master
+                 feature1
+                 feature2
+5) git checkout feature2
+6) vi README and edited some content on same line 
+7) git add .
+8) git commit -m "msg"
+9) git push origin feature2
+RAISED MERGE REQUEST TO MASTER FROM FEATURE2 NOW MERGE CONFLICT2 WILL OCCUR
+
+
+CONTENT(EDITING)
+hi this is tulajaram
+how is you
+hello ??
+now 
+ 
+
